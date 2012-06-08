@@ -14,12 +14,9 @@
 /log/*.log
 /tmp
 
-# TRF: Ignore other unneeded files.
+# TRF: Ignore other unneeded files. Suggested by railstutorial.org
 doc/
 *.swp
 *~
 .project
 .DS_Store
-
-## Now we add the files in the sample_add project to the repository,
-git add .
