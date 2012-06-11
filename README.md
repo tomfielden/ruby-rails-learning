@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
@@ -271,4 +270,3 @@ ruby-rails-learning
 ===================
 
 Learning Ruby on Rails
->>>>>>> d49132c2ee724b131cf6862a0cc1ae5b96df8a28
