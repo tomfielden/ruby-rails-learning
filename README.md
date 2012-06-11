@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
@@ -265,3 +266,9 @@ vendor
 This is the first application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
+=======
+ruby-rails-learning
+===================
+
+Learning Ruby on Rails
+>>>>>>> d49132c2ee724b131cf6862a0cc1ae5b96df8a28
